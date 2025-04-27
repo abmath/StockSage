@@ -9,7 +9,7 @@ import base64
 from datetime import datetime, timedelta
 
 # Hardcoded API key
-API_KEY = "AIzaSyC0rB8umNykwwRVIv8GOo06VP-v10h1qeA"
+API_KEY = "###################################################################"
 
 def setup_gemini():
     """Set up the Gemini API client"""
